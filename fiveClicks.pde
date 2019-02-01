@@ -36,7 +36,7 @@ void draw() {
 // draws a pentagon in the lower right corner and stops looping.
 // 
  
- if (clickCount == 6){
+ if (clickCount == 5){
    
 // 
 // this starts the program i was trying to do to make polygons radially outward with
