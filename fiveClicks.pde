@@ -24,7 +24,7 @@ void draw() {
    ylinePt = mouseY;
    strokeWeight(3);
    stroke(255,255,255);
-   stroke(random(0,255),255,random(0,255));
+   stroke(255,random(0,255),random(0,255));
 // println(clickCount); (for when i was trying to figure out where to put the clickCount)
 }
 
