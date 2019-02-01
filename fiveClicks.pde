@@ -32,9 +32,9 @@ void draw() {
  line(xlinePt,ylinePt,mouseX,mouseY);
  
 // every mouse click increases the clickCount counter;
-// when the clickCount is 5 (the numbers work out weird so it says 6) the program
+// when the clickCount is 5 the program
 // draws a pentagon in the lower right corner and stops looping.
-// it sometimes takes six clicks. i can't figure out why it varies.
+// 
  
  if (clickCount == 6){
    
